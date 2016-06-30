@@ -1,0 +1,16 @@
+{
+    "name": "xbld/laravel-api-response",
+    "description": "Response for restful API",
+    "authors": [
+        {
+            "name": "Kaleb Clark",
+            "email": "kaleb@abraxxus.net"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "XBLD\\ApiResponse\\": "src/"
+        }
+    }
+}
