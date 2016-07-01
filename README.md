@@ -11,7 +11,7 @@ Feature List:
 
 ##### Install
 ````
-$ composer require xbld\laravel-api-response
+$ composer require xbld/laravel-api-response
 ````
 
 ##### Setup
